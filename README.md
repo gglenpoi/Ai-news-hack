@@ -7,6 +7,7 @@
 
 
 ## Инструкция по запуску
+Перейти по ссылке на Gitlab и скачать содержимое: https://git.codenrock.com/ai-news-hack/cnrprod-team-52934/news-classification.git
 
 Запуск происходит в docker
 
